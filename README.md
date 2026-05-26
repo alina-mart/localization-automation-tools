@@ -16,7 +16,7 @@ This repository contains demo/sanitized examples inspired by real production wor
 
 ### HTML Export Translation Parser
 
-Parses an HTML table export into Google Sheets, cleans source text, compares source strings against a translation memory sheet, and populates existing translations into locale columns.
+Parses an HTML table export into Google Sheets, removes HTML tags and formatting artifacts, compares source strings against a translation memory sheet, and populates existing translations into locale columns.
 
 ### Localization Consistency Validator
 
